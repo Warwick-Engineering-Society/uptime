@@ -4,10 +4,14 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: warwickengineers.co.uk
+  - name: Main Site (warwickengineers.co.uk)
     url: https://warwickengineers.co.uk
-  - name: engsoc.uk
+  - name: URL Shortener (engsoc.uk)
     url: http://engsoc.uk
+  - name: Past Paper Database
+    url: https://pp.engsoc.uk
+  - name: PDR App
+    url: pdr.engsoc.uk
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

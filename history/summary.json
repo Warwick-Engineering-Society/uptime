@@ -58,17 +58,19 @@
     "url": "pdr.engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pdr-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 700,
-    "timeWeek": 841,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 820,
+    "timeDay": 639,
+    "timeWeek": 808,
+    "timeMonth": 820,
+    "timeYear": 820,
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   }
 ]

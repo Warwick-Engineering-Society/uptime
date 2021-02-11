@@ -14,8 +14,6 @@ sites:
       - 401
   - name: PDR App
     url: pdr.engsoc.uk
-    expectedStatusCodes:
-      - 302
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

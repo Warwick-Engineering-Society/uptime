@@ -6,9 +6,9 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "81.22%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.50%",
     "time": 1086,
     "timeDay": 885,
@@ -16,7 +16,7 @@
     "timeMonth": 996,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2021-02-17": 268
+      "2021-02-17": 270
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/engsoc.uk",
     "slug": "url-shortener-engsoc-uk",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "88.18%",
-    "uptimeWeek": "98.31%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.69%",
-    "time": 557,
-    "timeDay": 641,
-    "timeWeek": 587,
-    "timeMonth": 527,
-    "timeYear": 557,
+    "uptimeYear": "99.68%",
+    "time": 558,
+    "timeDay": 637,
+    "timeWeek": 589,
+    "timeMonth": 529,
+    "timeYear": 558,
     "dailyMinutesDown": {
-      "2021-02-17": 169
+      "2021-02-17": 171
     }
   },
   {
@@ -65,7 +65,7 @@
     "status": "up",
     "uptime": "94.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.30%",
+    "uptimeWeek": "83.32%",
     "uptimeMonth": "93.61%",
     "uptimeYear": "94.82%",
     "time": 811,

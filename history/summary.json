@@ -4,9 +4,9 @@
     "url": "https://warwickengineers.co.uk",
     "icon": "https://favicons.githubusercontent.com/warwickengineers.co.uk",
     "slug": "main-site-warwickengineers-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 985,
     "timeMonth": 999,
     "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-17": 0
+    }
   },
   {
     "name": "URL Shortener (engsoc.uk)",
     "url": "http://engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/engsoc.uk",
     "slug": "url-shortener-engsoc-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 501,
     "timeMonth": 493,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-17": 0
+    }
   },
   {
     "name": "Past Paper Database",
@@ -59,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pdr-app",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.66%",
+    "uptimeWeek": "79.63%",
     "uptimeMonth": "93.61%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.79%",
     "time": 811,
     "timeDay": 703,
     "timeWeek": 750,

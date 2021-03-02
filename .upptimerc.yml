@@ -7,9 +7,13 @@ sites:
   - name: Main Site (warwickengineers.co.uk)
     url: https://warwickengineers.co.uk
   - name: URL Shortener (engsoc.uk)
-    url: http://engsoc.uk
+    url: https://engsoc.uk
   - name: Past Paper Database
     url: https://pp.engsoc.uk
+    expectedStatusCodes:
+      - 401
+  - name: Docs
+    url: https://docs.engsoc.uk
     expectedStatusCodes:
       - 401
   - name: PDR App

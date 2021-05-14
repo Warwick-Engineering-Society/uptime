@@ -4,11 +4,11 @@
     "url": "https://warwickengineers.co.uk",
     "icon": "https://favicons.githubusercontent.com/warwickengineers.co.uk",
     "slug": "main-site-warwickengineers-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.81%",
     "time": 962,
     "timeDay": 1292,
@@ -16,6 +16,7 @@
     "timeMonth": 984,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2021-05-14": 2,
       "2021-04-24": 40,
       "2021-02-17": 297
     }
@@ -25,10 +26,10 @@
     "url": "https://engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/engsoc.uk",
     "slug": "url-shortener-engsoc-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.71%",
     "time": 636,
@@ -37,6 +38,7 @@
     "timeMonth": 733,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2021-05-14": 2,
       "2021-05-03": 83,
       "2021-05-02": 151,
       "2021-03-02": 116,
@@ -48,10 +50,10 @@
     "url": "https://pp.engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/pp.engsoc.uk",
     "slug": "past-paper-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 737,
@@ -59,16 +61,18 @@
     "timeWeek": 764,
     "timeMonth": 815,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 1
+    }
   },
   {
     "name": "Docs",
     "url": "https://docs.engsoc.uk",
     "icon": "https://favicons.githubusercontent.com/docs.engsoc.uk",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.78%",
@@ -78,6 +82,7 @@
     "timeMonth": 591,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-05-03": 83,
       "2021-05-02": 151
     }
@@ -88,11 +93,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pdr-app",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.43%",
     "time": 794,
     "timeDay": 1197,
     "timeWeek": 843,

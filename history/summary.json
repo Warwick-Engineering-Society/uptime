@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 853,
-    "timeDay": 614,
-    "timeWeek": 667,
-    "timeMonth": 886,
-    "timeYear": 829,
+    "time": 851,
+    "timeDay": 184,
+    "timeWeek": 561,
+    "timeMonth": 874,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2021-08-21": 113,
       "2021-05-14": 24
@@ -27,15 +27,15 @@
     "slug": "url-shortener-engsoc-uk",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.54%",
     "time": 805,
-    "timeDay": 680,
-    "timeWeek": 880,
-    "timeMonth": 947,
-    "timeYear": 858,
+    "timeDay": 501,
+    "timeWeek": 798,
+    "timeMonth": 967,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2022-04-30": 17,
       "2022-04-07": 57,
@@ -61,8 +61,7 @@
       "2021-10-20": 20,
       "2021-08-21": 113,
       "2021-05-14": 23,
-      "2021-05-03": 83,
-      "2021-05-02": 151
+      "2021-05-03": 83
     }
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 730,
-    "timeDay": 540,
-    "timeWeek": 798,
-    "timeMonth": 779,
+    "timeDay": 730,
+    "timeWeek": 784,
+    "timeMonth": 785,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2021-12-23": 1004,
@@ -99,14 +98,14 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.58%",
     "time": 703,
-    "timeDay": 534,
-    "timeWeek": 727,
-    "timeMonth": 779,
+    "timeDay": 502,
+    "timeWeek": 696,
+    "timeMonth": 797,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2022-04-30": 16,
@@ -131,8 +130,7 @@
       "2021-10-29": 68,
       "2021-10-20": 19,
       "2021-05-14": 22,
-      "2021-05-03": 83,
-      "2021-05-02": 151
+      "2021-05-03": 83
     }
   },
   {
@@ -147,10 +145,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 840,
-    "timeDay": 616,
-    "timeWeek": 1117,
-    "timeMonth": 969,
-    "timeYear": 858,
+    "timeDay": 752,
+    "timeWeek": 1081,
+    "timeMonth": 971,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2022-03-11": 23,
       "2021-12-23": 1004,

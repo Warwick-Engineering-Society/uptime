@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
-    "timeDay": 1109,
-    "timeWeek": 662,
-    "timeMonth": 628,
-    "timeYear": 720,
+    "timeDay": 372,
+    "timeWeek": 594,
+    "timeMonth": 615,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2022-06-14": 16
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.93%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.34%",
     "time": 889,
-    "timeDay": 1293,
-    "timeWeek": 837,
-    "timeMonth": 1160,
-    "timeYear": 961,
+    "timeDay": 991,
+    "timeWeek": 842,
+    "timeMonth": 1165,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2022-10-25": 59,
       "2022-10-21": 48,
@@ -85,8 +85,7 @@
       "2021-12-03": 28,
       "2021-11-06": 37,
       "2021-11-03": 66,
-      "2021-10-31": 41,
-      "2021-10-29": 69
+      "2021-10-31": 41
     }
   },
   {
@@ -95,16 +94,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 743,
-    "timeDay": 821,
-    "timeWeek": 712,
-    "timeMonth": 757,
-    "timeYear": 738,
+    "timeDay": 778,
+    "timeWeek": 694,
+    "timeMonth": 752,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2021-12-23": 1004,
       "2021-12-22": 1440,
@@ -123,13 +122,13 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.36%",
-    "time": 738,
-    "timeDay": 928,
-    "timeWeek": 684,
-    "timeMonth": 1039,
+    "time": 739,
+    "timeDay": 955,
+    "timeWeek": 690,
+    "timeMonth": 1041,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-10-25": 59,
@@ -180,8 +179,7 @@
       "2021-12-18": 454,
       "2021-12-03": 27,
       "2021-11-03": 56,
-      "2021-10-31": 41,
-      "2021-10-29": 68
+      "2021-10-31": 41
     }
   },
   {
@@ -196,9 +194,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
     "time": 958,
-    "timeDay": 1421,
-    "timeWeek": 1178,
-    "timeMonth": 1107,
+    "timeDay": 1330,
+    "timeWeek": 1187,
+    "timeMonth": 1118,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2022-06-29": 52,

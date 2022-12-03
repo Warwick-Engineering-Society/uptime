@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 733,
-    "timeDay": 489,
-    "timeWeek": 643,
-    "timeMonth": 635,
-    "timeYear": 704,
+    "time": 732,
+    "timeDay": 650,
+    "timeWeek": 638,
+    "timeMonth": 636,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2022-12-02": 17,
       "2022-10-31": 76,
@@ -34,8 +34,8 @@
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.26%",
     "time": 991,
-    "timeDay": 1011,
-    "timeWeek": 1376,
+    "timeDay": 943,
+    "timeWeek": 1193,
     "timeMonth": 1726,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -98,8 +98,7 @@
       "2022-01-05": 15,
       "2021-12-23": 284,
       "2021-12-19": 651,
-      "2021-12-18": 403,
-      "2021-12-03": 28
+      "2021-12-18": 403
     }
   },
   {
@@ -113,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 793,
-    "timeDay": 942,
-    "timeWeek": 1585,
-    "timeMonth": 1553,
+    "time": 794,
+    "timeDay": 1055,
+    "timeWeek": 980,
+    "timeMonth": 1561,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2021-12-23": 1004,
@@ -140,9 +139,9 @@
     "uptimeMonth": "98.89%",
     "uptimeYear": "99.29%",
     "time": 823,
-    "timeDay": 969,
-    "timeWeek": 1157,
-    "timeMonth": 1574,
+    "timeDay": 786,
+    "timeWeek": 988,
+    "timeMonth": 1575,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2022-11-29": 49,
@@ -201,8 +200,7 @@
       "2022-02-10": 21,
       "2021-12-23": 248,
       "2021-12-19": 606,
-      "2021-12-18": 454,
-      "2021-12-03": 27
+      "2021-12-18": 454
     }
   },
   {
@@ -216,11 +214,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.34%",
-    "time": 1034,
-    "timeDay": 1759,
-    "timeWeek": 1884,
-    "timeMonth": 1943,
-    "timeYear": 1103,
+    "time": 1036,
+    "timeDay": 1516,
+    "timeWeek": 1715,
+    "timeMonth": 1952,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2022-11-29": 24,
       "2022-11-18": 16,

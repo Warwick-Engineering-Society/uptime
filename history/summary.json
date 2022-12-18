@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 726,
-    "timeDay": 521,
-    "timeWeek": 685,
-    "timeMonth": 640,
-    "timeYear": 697,
+    "time": 727,
+    "timeDay": 525,
+    "timeWeek": 629,
+    "timeMonth": 631,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2022-12-02": 17,
       "2022-10-31": 76,
@@ -29,15 +29,15 @@
     "slug": "url-shortener-engsoc-uk",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "98.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.24%",
-    "time": 1024,
-    "timeDay": 1429,
-    "timeWeek": 1636,
-    "timeMonth": 2050,
-    "timeYear": 1101,
+    "time": 1033,
+    "timeDay": 5870,
+    "timeWeek": 1699,
+    "timeMonth": 2158,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2022-12-16": 24,
       "2022-12-14": 74,
@@ -101,8 +101,7 @@
       "2022-02-10": 22,
       "2022-01-05": 15,
       "2021-12-23": 284,
-      "2021-12-19": 651,
-      "2021-12-18": 403
+      "2021-12-19": 651
     }
   },
   {
@@ -115,19 +114,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.36%",
-    "time": 835,
-    "timeDay": 2639,
-    "timeWeek": 1689,
-    "timeMonth": 2179,
-    "timeYear": 871,
+    "uptimeYear": "98.45%",
+    "time": 839,
+    "timeDay": 2597,
+    "timeWeek": 1693,
+    "timeMonth": 2242,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2021-12-23": 1004,
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
-      "2021-12-19": 1440,
-      "2021-12-18": 1440
+      "2021-12-19": 1440
     }
   },
   {
@@ -137,15 +135,15 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.26%",
-    "time": 863,
-    "timeDay": 1318,
-    "timeWeek": 1849,
-    "timeMonth": 2029,
-    "timeYear": 937,
+    "time": 875,
+    "timeDay": 7459,
+    "timeWeek": 1682,
+    "timeMonth": 2185,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2022-12-16": 23,
       "2022-12-14": 72,
@@ -206,8 +204,7 @@
       "2022-02-11": 18,
       "2022-02-10": 21,
       "2021-12-23": 248,
-      "2021-12-19": 606,
-      "2021-12-18": 454
+      "2021-12-19": 606
     }
   },
   {
@@ -216,16 +213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdr-app",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.34%",
-    "time": 1086,
-    "timeDay": 1669,
-    "timeWeek": 3120,
-    "timeMonth": 2423,
-    "timeYear": 1172,
+    "uptimeYear": "98.43%",
+    "time": 1101,
+    "timeDay": 8181,
+    "timeWeek": 3380,
+    "timeMonth": 2655,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-11-29": 24,
       "2022-11-18": 16,
@@ -235,8 +232,7 @@
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
-      "2021-12-19": 1440,
-      "2021-12-18": 1440
+      "2021-12-19": 1440
     }
   }
 ]

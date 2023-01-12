@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "97.87%",
+    "uptime": "97.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.05%",
-    "uptimeYear": "96.03%",
+    "uptimeMonth": "57.62%",
+    "uptimeYear": "95.99%",
     "time": 1117,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2323,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2023-01-12": 68,
+      "2023-01-12": 254,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -124,10 +124,10 @@
     "url": "https://pp.engsoc.uk",
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 869,
@@ -135,7 +135,9 @@
     "timeWeek": 693,
     "timeMonth": 1459,
     "timeYear": 923,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-12": 1
+    }
   },
   {
     "name": "Docs",

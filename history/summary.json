@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 478,
-    "timeDay": 321,
-    "timeWeek": 336,
-    "timeMonth": 382,
+    "time": 477,
+    "timeDay": 571,
+    "timeWeek": 373,
+    "timeMonth": 378,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2023-07-14": 16,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "65.05%",
+    "uptime": "64.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2036,
+    "time": 2049,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 58,
+      "2024-01-17": 59,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -401,8 +402,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "65.96%",
+    "uptime": "65.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1246,
+    "time": 1249,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 58,
+      "2024-01-17": 59,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -785,8 +786,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   },
   {
@@ -795,15 +795,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.engsoc.uk.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.97%",
     "time": 698,
-    "timeDay": 299,
-    "timeWeek": 323,
-    "timeMonth": 360,
+    "timeDay": 534,
+    "timeWeek": 352,
+    "timeMonth": 362,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2023-03-09": 1040,
@@ -863,11 +863,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.42%",
-    "time": 628,
-    "timeDay": 242,
-    "timeWeek": 253,
-    "timeMonth": 255,
+    "uptimeYear": "96.69%",
+    "time": 627,
+    "timeDay": 323,
+    "timeWeek": 270,
+    "timeMonth": 256,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2023-01-29": 174,
@@ -881,8 +881,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
-      "2023-01-18": 1440,
-      "2023-01-17": 1440
+      "2023-01-18": 1440
     }
   }
 ]

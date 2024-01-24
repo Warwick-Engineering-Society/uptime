@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 471,
-    "timeDay": 478,
-    "timeWeek": 345,
-    "timeMonth": 362,
-    "timeYear": 427,
+    "time": 472,
+    "timeDay": 759,
+    "timeWeek": 372,
+    "timeMonth": 377,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2023-07-14": 16,
       "2023-05-15": 20,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "64.63%",
+    "uptime": "64.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2104,
+    "time": 2097,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 60,
+      "2024-01-24": 60,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -401,8 +402,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "65.55%",
+    "uptime": "65.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1275,
+    "time": 1276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 60,
+      "2024-01-24": 60,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -785,8 +786,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -795,15 +795,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.engsoc.uk.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.97%",
-    "time": 691,
-    "timeDay": 346,
-    "timeWeek": 368,
-    "timeMonth": 350,
+    "time": 690,
+    "timeDay": 486,
+    "timeWeek": 361,
+    "timeMonth": 355,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2023-03-09": 1040,
@@ -849,8 +849,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 258
+      "2023-01-25": 1440
     }
   },
   {
@@ -863,19 +862,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.33%",
-    "time": 614,
-    "timeDay": 245,
+    "uptimeYear": "98.61%",
+    "time": 612,
+    "timeDay": 322,
     "timeWeek": 235,
-    "timeMonth": 246,
+    "timeMonth": 247,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2023-01-29": 174,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   }
 ]

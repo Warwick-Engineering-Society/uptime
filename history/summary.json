@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 451,
-    "timeDay": 606,
-    "timeWeek": 393,
+    "timeDay": 502,
+    "timeWeek": 431,
     "timeMonth": 479,
-    "timeYear": 419,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2024-02-27": 24,
       "2023-07-14": 16,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "60.64%",
+    "uptime": "60.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2532,
+    "time": 2606,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 55,
+      "2024-04-06": 54,
+      "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -401,8 +402,7 @@
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
-      "2023-04-08": 1440,
-      "2023-04-07": 1440
+      "2023-04-08": 1440
     }
   },
   {
@@ -411,18 +411,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "61.49%",
+    "uptime": "61.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1634,
+    "time": 1558,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-05": 56,
+      "2024-04-06": 54,
+      "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
@@ -785,8 +786,7 @@
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
-      "2023-04-08": 1440,
-      "2023-04-07": 1440
+      "2023-04-08": 1440
     }
   },
   {
@@ -800,9 +800,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 453,
-    "timeWeek": 370,
+    "time": 510,
+    "timeDay": 437,
+    "timeWeek": 386,
     "timeMonth": 410,
     "timeYear": 395,
     "dailyMinutesDown": {}
@@ -818,10 +818,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 427,
+    "time": 438,
+    "timeDay": 227,
     "timeWeek": 276,
-    "timeMonth": 279,
+    "timeMonth": 276,
     "timeYear": 270,
     "dailyMinutesDown": {}
   }

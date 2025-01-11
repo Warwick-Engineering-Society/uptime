@@ -6,17 +6,16 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 477,
-    "timeDay": 910,
-    "timeWeek": 649,
-    "timeMonth": 566,
-    "timeYear": 490,
+    "timeDay": 715,
+    "timeWeek": 640,
+    "timeMonth": 575,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-01-10": 14,
       "2024-12-20": 26,
       "2024-02-27": 24
     }
@@ -27,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "48.98%",
+    "uptime": "48.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 1161,
+      "2025-01-11": 73,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -401,8 +401,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -411,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "49.68%",
+    "uptime": "49.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 1161,
+      "2025-01-11": 73,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -785,8 +785,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -801,10 +800,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 484,
-    "timeWeek": 478,
-    "timeMonth": 498,
-    "timeYear": 421,
+    "timeDay": 655,
+    "timeWeek": 519,
+    "timeMonth": 503,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   },
   {
@@ -818,10 +817,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 317,
-    "timeWeek": 344,
-    "timeMonth": 330,
+    "time": 282,
+    "timeDay": 492,
+    "timeWeek": 381,
+    "timeMonth": 335,
     "timeYear": 287,
     "dailyMinutesDown": {}
   }

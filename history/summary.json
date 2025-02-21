@@ -6,15 +6,15 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 494,
-    "timeDay": 361,
-    "timeWeek": 467,
-    "timeMonth": 669,
-    "timeYear": 514,
+    "time": 495,
+    "timeDay": 743,
+    "timeWeek": 485,
+    "timeMonth": 674,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2025-02-19": 19,
       "2024-12-20": 26,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "47.67%",
+    "uptime": "47.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 73,
+      "2025-02-21": 73,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -401,8 +402,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -411,7 +411,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "48.34%",
+    "uptime": "48.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -422,7 +422,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-20": 73,
+      "2025-02-21": 73,
+      "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -785,8 +786,7 @@
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
-      "2024-02-23": 1440,
-      "2024-02-22": 1440
+      "2024-02-23": 1440
     }
   },
   {
@@ -800,11 +800,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 473,
-    "timeWeek": 458,
-    "timeMonth": 504,
-    "timeYear": 434,
+    "time": 421,
+    "timeDay": 455,
+    "timeWeek": 456,
+    "timeMonth": 503,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -813,15 +813,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdr-app",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 232,
-    "timeWeek": 295,
-    "timeMonth": 340,
+    "timeDay": 230,
+    "timeWeek": 294,
+    "timeMonth": 336,
     "timeYear": 297,
     "dailyMinutesDown": {}
   }

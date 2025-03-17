@@ -4,10 +4,10 @@
     "url": "https://warwickengineers.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/warwickengineers.co.uk.ico",
     "slug": "main-site-warwickengineers-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 495,
@@ -16,7 +16,7 @@
     "timeMonth": 437,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-03-17": 47,
+      "2025-03-17": 48,
       "2025-02-19": 19,
       "2024-12-20": 26
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 1159,
+      "2025-03-17": 1181,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 1159,
+      "2025-03-17": 1182,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,

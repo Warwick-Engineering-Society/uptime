@@ -6,17 +6,17 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.90%",
     "time": 518,
-    "timeDay": 503,
-    "timeWeek": 512,
-    "timeMonth": 570,
+    "timeDay": 483,
+    "timeWeek": 520,
+    "timeMonth": 571,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-07-26": 60,
+      "2025-07-26": 47,
       "2025-07-25": 31,
       "2025-07-24": 34,
       "2025-07-23": 43,
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 1252,
+      "2025-07-27": 108,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -412,8 +413,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -433,7 +433,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 1252,
+      "2025-07-27": 108,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -796,8 +797,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -812,9 +812,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 680,
-    "timeWeek": 481,
-    "timeMonth": 457,
+    "timeDay": 525,
+    "timeWeek": 482,
+    "timeMonth": 458,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -830,8 +830,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 469,
-    "timeWeek": 356,
+    "timeDay": 342,
+    "timeWeek": 338,
     "timeMonth": 329,
     "timeYear": 305,
     "dailyMinutesDown": {}

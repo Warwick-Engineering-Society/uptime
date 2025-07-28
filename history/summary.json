@@ -6,15 +6,15 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "97.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.90%",
     "time": 518,
-    "timeDay": 483,
-    "timeWeek": 520,
-    "timeMonth": 571,
-    "timeYear": 544,
+    "timeDay": 650,
+    "timeWeek": 550,
+    "timeMonth": 576,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2025-07-26": 47,
       "2025-07-25": 31,
@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "43.16%",
+    "uptime": "43.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 108,
+      "2025-07-28": 106,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -412,8 +413,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   },
   {
@@ -422,7 +422,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "43.77%",
+    "uptime": "43.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -433,7 +433,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 108,
+      "2025-07-28": 107,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -796,8 +797,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   },
   {
@@ -806,16 +806,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.engsoc.uk.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 525,
-    "timeWeek": 482,
-    "timeMonth": 458,
-    "timeYear": 454,
+    "time": 442,
+    "timeDay": 492,
+    "timeWeek": 476,
+    "timeMonth": 457,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -830,9 +830,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 342,
-    "timeWeek": 338,
-    "timeMonth": 329,
+    "timeDay": 314,
+    "timeWeek": 335,
+    "timeMonth": 330,
     "timeYear": 305,
     "dailyMinutesDown": {}
   }

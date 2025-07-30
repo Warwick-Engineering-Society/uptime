@@ -6,15 +6,15 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.33%",
+    "uptimeDay": "95.78%",
     "uptimeWeek": "97.44%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.88%",
     "time": 513,
-    "timeDay": 437,
-    "timeWeek": 510,
-    "timeMonth": 560,
-    "timeYear": 544,
+    "timeDay": 395,
+    "timeWeek": 509,
+    "timeMonth": 479,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2025-07-29": 61,
       "2025-07-28": 41,
@@ -51,7 +51,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 1370,
+      "2025-07-30": 103,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -414,8 +415,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -435,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 1370,
+      "2025-07-30": 103,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -798,8 +799,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -813,11 +813,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 465,
-    "timeWeek": 471,
-    "timeMonth": 460,
-    "timeYear": 455,
+    "time": 441,
+    "timeDay": 326,
+    "timeWeek": 460,
+    "timeMonth": 458,
+    "timeYear": 454,
     "dailyMinutesDown": {}
   },
   {
@@ -832,10 +832,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 288,
-    "timeWeek": 331,
-    "timeMonth": 332,
-    "timeYear": 306,
+    "timeDay": 278,
+    "timeWeek": 323,
+    "timeMonth": 334,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]

@@ -6,14 +6,14 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "93.96%",
+    "uptimeDay": "96.34%",
     "uptimeWeek": "97.35%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.87%",
     "time": 515,
-    "timeDay": 423,
-    "timeWeek": 507,
-    "timeMonth": 482,
+    "timeDay": 580,
+    "timeWeek": 515,
+    "timeMonth": 485,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2025-07-30": 52,
@@ -41,10 +41,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "43.06%",
+    "uptime": "43.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1165,
+      "2025-07-31": 102,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -415,8 +416,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "43.67%",
+    "uptime": "43.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -436,7 +436,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-30": 1165,
+      "2025-07-31": 102,
+      "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
@@ -799,8 +800,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -814,11 +814,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 326,
-    "timeWeek": 460,
-    "timeMonth": 458,
-    "timeYear": 454,
+    "time": 442,
+    "timeDay": 663,
+    "timeWeek": 508,
+    "timeMonth": 465,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -833,9 +833,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 278,
+    "timeDay": 315,
     "timeWeek": 323,
-    "timeMonth": 334,
+    "timeMonth": 333,
     "timeYear": 305,
     "dailyMinutesDown": {}
   }

@@ -6,14 +6,14 @@
     "slug": "main-site-warwickengineers-co-uk",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "97.39%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.86%",
-    "time": 515,
-    "timeDay": 570,
-    "timeWeek": 516,
-    "timeMonth": 486,
+    "time": 516,
+    "timeDay": 518,
+    "timeWeek": 503,
+    "timeMonth": 490,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2025-07-31": 30,
@@ -42,7 +42,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "down",
-    "uptime": "43.05%",
+    "uptime": "43.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -53,7 +53,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 382,
+      "2025-08-01": 112,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -416,8 +417,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -426,7 +426,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "43.66%",
+    "uptime": "43.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -437,7 +437,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 382,
+      "2025-08-01": 112,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -800,8 +801,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -816,9 +816,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 663,
-    "timeWeek": 508,
-    "timeMonth": 465,
+    "timeDay": 429,
+    "timeWeek": 511,
+    "timeMonth": 468,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -834,8 +834,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 315,
-    "timeWeek": 323,
+    "timeDay": 198,
+    "timeWeek": 315,
     "timeMonth": 333,
     "timeYear": 305,
     "dailyMinutesDown": {}

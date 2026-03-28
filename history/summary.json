@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 638,
-    "timeDay": 792,
-    "timeWeek": 806,
-    "timeMonth": 869,
+    "timeDay": 591,
+    "timeWeek": 772,
+    "timeMonth": 861,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-12-19": 1076,
@@ -35,8 +35,7 @@
       "2025-07-18": 19,
       "2025-07-15": 53,
       "2025-07-12": 17,
-      "2025-06-16": 37,
-      "2025-03-28": 16
+      "2025-06-16": 37
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "up",
-    "uptime": "49.11%",
+    "uptime": "49.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.73%",
+    "uptimeYear": "60.01%",
     "time": 801,
-    "timeDay": 718,
-    "timeWeek": 787,
-    "timeMonth": 858,
+    "timeDay": 784,
+    "timeWeek": 772,
+    "timeMonth": 857,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2025-12-19": 1076,
@@ -203,8 +202,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -213,7 +211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "38.17%",
+    "uptime": "38.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -224,7 +222,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-27": 131,
+      "2026-03-28": 123,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -587,8 +586,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -597,18 +595,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.engsoc.uk.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "85.29%",
+    "uptime": "85.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "38.58%",
+    "uptimeYear": "38.31%",
     "time": 489,
-    "timeDay": 547,
-    "timeWeek": 548,
-    "timeMonth": 544,
+    "timeDay": 556,
+    "timeWeek": 545,
+    "timeMonth": 551,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2026-03-27": 132,
+      "2026-03-28": 123,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -843,18 +842,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdr-app",
     "status": "down",
-    "uptime": "86.92%",
+    "uptime": "86.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "38.58%",
-    "time": 316,
+    "uptimeYear": "38.31%",
+    "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 312,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2026-03-27": 132,
+      "2026-03-28": 123,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
-    "time": 776,
-    "timeDay": 776,
-    "timeWeek": 857,
-    "timeMonth": 863,
-    "timeYear": 845,
+    "time": 777,
+    "timeDay": 983,
+    "timeWeek": 847,
+    "timeMonth": 864,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2025-12-11": 1375,
       "2025-12-10": 506,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/engsoc.uk.ico",
     "slug": "url-shortener-engsoc-uk",
     "status": "up",
-    "uptime": "53.18%",
+    "uptime": "53.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
-    "time": 966,
-    "timeDay": 1088,
-    "timeWeek": 1259,
-    "timeMonth": 1276,
-    "timeYear": 999,
+    "time": 967,
+    "timeDay": 1471,
+    "timeWeek": 1267,
+    "timeMonth": 1274,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-09-27": 18,
       "2025-12-11": 1375,
@@ -56,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pp.engsoc.uk.ico",
     "slug": "past-paper-database",
     "status": "down",
-    "uptime": "35.12%",
+    "uptime": "35.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -67,7 +67,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 187,
+      "2026-09-09": 188,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -430,8 +431,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -440,18 +440,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.engsoc.uk.ico",
     "slug": "docs",
     "status": "down",
-    "uptime": "78.30%",
+    "uptime": "78.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 487,
-    "timeDay": 447,
-    "timeWeek": 442,
+    "time": 488,
+    "timeDay": 643,
+    "timeWeek": 461,
     "timeMonth": 424,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2026-09-08": 187,
+      "2026-09-09": 188,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -814,8 +815,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -824,18 +824,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdr-app",
     "status": "down",
-    "uptime": "79.98%",
+    "uptime": "79.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 319,
+    "time": 320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 187,
+      "2026-09-09": 189,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -1198,8 +1199,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   }
 ]
